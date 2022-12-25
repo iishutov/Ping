@@ -1,5 +1,5 @@
 # Ping for Windows
-Simple Windows app that performs the basic functions of <i>[ping](https://en.wikipedia.org/wiki/Ping_(networking_utility))</i> command by ICMP Echo Request and Echo Reply messages.
+A simple Windows console app that performs the basic functions of <i>[ping](https://en.wikipedia.org/wiki/Ping_(networking_utility))</i> command by ICMP Echo Request and Echo Reply messages.
 ## Parameters
 ```c++
 	const int COUNT = 4;
